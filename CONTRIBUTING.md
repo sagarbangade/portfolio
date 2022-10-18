@@ -53,7 +53,7 @@ You can file new issues by providing the above information [here](https://github
 
 Before you submit your Pull Request (PR) consider the following guidelines:
 
-- Search [GitHub](https://github.com/sagarbangade/portfolio-peacock/pulls) for an open or closed PR
+- Search [GitHub](https://github.com/sagarbangade/portfolio/pulls) for an open or closed PR
   that relates to your submission. You don't want to duplicate effort.
 
 - Make your changes in a new git fork.
